@@ -1,2 +1,2 @@
-# Kernal-Methods-project
-Kernal Methods project
+# Kernel-Methods-project
+Kernel Methods project
